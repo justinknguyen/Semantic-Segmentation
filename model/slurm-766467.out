@@ -1,0 +1,30 @@
+The device being used is: cuda:0
+1,  train loss: 1.125, val loss: 0.705
+Saving model
+2,  train loss: 0.606, val loss: 0.577
+Saving model
+3,  train loss: 0.517, val loss: 0.473
+Saving model
+4,  train loss: 0.461, val loss: 0.463
+Saving model
+5,  train loss: 0.425, val loss: 0.440
+Saving model
+6,  train loss: 0.397, val loss: 0.410
+Saving model
+7,  train loss: 0.373, val loss: 0.393
+Saving model
+8,  train loss: 0.345, val loss: 0.408
+9,  train loss: 0.324, val loss: 0.378
+Saving model
+10,  train loss: 0.304, val loss: 0.392
+11,  train loss: 0.287, val loss: 0.393
+12,  train loss: 0.272, val loss: 0.381
+13,  train loss: 0.255, val loss: 0.379
+14,  train loss: 0.244, val loss: 0.384
+15,  train loss: 0.232, val loss: 0.393
+16,  train loss: 0.226, val loss: 0.398
+17,  train loss: 0.214, val loss: 0.406
+18,  train loss: 0.206, val loss: 0.410
+19,  train loss: 0.200, val loss: 0.416
+Stopping early. No model improvement in 10 epochs.
+Finished Training
