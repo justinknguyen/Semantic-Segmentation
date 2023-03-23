@@ -194,7 +194,7 @@ def process_video(input_file, output_file, net, device):
             _, _mask = torch.max(_mask, dim=1)
 
         # Apply the colormap to the predicted mask
-        num_classes = 30
+        num_classes = 34
         _mask = _mask.squeeze().cpu().numpy()
         mask_3d = np.repeat(_mask[:, :, np.newaxis], 3, axis=2)
         color_mask = cv2.applyColorMap((mask_3d * 255 / (num_classes - 1)).astype(np.uint8), cv2.COLORMAP_JET)
@@ -231,7 +231,7 @@ def create_ground_truth_video(image_folder, mask_folder, output_file, fps=10):
         mask = cv2.imread(os.path.join(mask_folder, mask_file), cv2.IMREAD_GRAYSCALE)
 
         # Combine the mask layers
-        num_classes = 30
+        num_classes = 34
         combined_mask = np.zeros_like(mask)
         for i in range(num_classes):
             combined_mask += ((mask == i) * i * 255 / num_classes).astype(np.uint8)
