@@ -1,4 +1,11 @@
 # enel645-winter-2023-project-group5
+| Group 5         |
+| --------------- |
+| Ardit Baboci    |
+| Eric Chung      |
+| Feras Dahrooge  |
+| Justin Nguyen   |
+| Khoi  Nguyen    |
 
 ## Setup
 1. Download `best_model.pth` from the following link: <br>
