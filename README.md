@@ -1,11 +1,11 @@
 # enel645-winter-2023-project-group5
-| Group 5         |
-| --------------- |
-| Ardit Baboci    |
-| Eric Chung      |
-| Feras Dahrooge  |
-| Justin Nguyen   |
-| Khoi  Nguyen    |
+| Group 5         | Student ID | Contribution                                     | Score |
+| --------------- | ---------- | -------------------------------------------------| ----- |
+| Ardit Baboci    | 10149781   |   | 3     |
+| Eric Chung      | 10127744   |   | 3     |
+| Feras Dahrooge  | 30023852   |   | 3     |
+| Justin Nguyen   | 30042258   |   | 3     |
+| Khoi  Nguyen    | 10171399   |   | 3     |
 
 ## Setup
 1. Download `best_model.pth` from the following link: <br>
