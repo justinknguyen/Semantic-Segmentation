@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+Justin/best_model.pth
+model/best_model.pth
