@@ -6,6 +6,11 @@ https://uofc-my.sharepoint.com/:u:/g/personal/ardit_baboci_ucalgary_ca/EfYblPX6a
 2. Place `best_model.pth` within the `model` folder to avoid training.
 
 ## Results
+Results are from the [Visualization Notebook](https://github.com/sschung1/enel645-winter-2023-project-group5/blob/main/model/enel645-group5-visualization.ipynb).
+- [Input Video](https://github.com/sschung1/enel645-winter-2023-project-group5/blob/main/model/input_video.mp4)
+- [Output Video](https://github.com/sschung1/enel645-winter-2023-project-group5/blob/main/model/output_video.mp4)
+- [Ground Truth Video](https://github.com/sschung1/enel645-winter-2023-project-group5/blob/main/model/ground_truth_video.mp4)
+
 ### Best Model on an Image
 ![image result](https://github.com/sschung1/enel645-winter-2023-project-group5/blob/main/screenshots/image%20result.png)
 
