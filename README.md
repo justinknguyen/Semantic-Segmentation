@@ -1,11 +1,11 @@
 # enel645-winter-2023-project-group5
-| Group 5         | Student ID | Contribution                                     | Score |
-| --------------- | ---------- | -------------------------------------------------| ----- |
-| Ardit Baboci    | 10149781   |   | 3     |
-| Eric Chung      | 10127744   |   | 3     |
-| Feras Dahrooge  | 30023852   |   | 3     |
-| Justin Nguyen   | 30042258   |   | 3     |
-| Khoi  Nguyen    | 10171399   |   | 3     |
+| Group 5         | Student ID | Contribution                                           | Score |
+| --------------- | ---------- | ---------------------------------------------------    | ----- |
+| Ardit Baboci    | 10149781   | Report writing, Neural network setup, Test metrics     | 3     |
+| Eric Chung      | 10127744   | Report writing, Neural network setup, TALC runs        | 3     |
+| Feras Dahrooge  | 30023852   | Report writing, Video segmentation, Test metrics       | 3     |
+| Justin Nguyen   | 30042258   | Report writing, Video segmentation, Visualizations     | 3     |
+| Khoi  Nguyen    | 10171399   | Report writing, Dataset curating, Neural network setup | 3     |
 
 ## Setup
 1. Download `best_model.pth` from the following link: <br>
