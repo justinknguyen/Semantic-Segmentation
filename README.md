@@ -9,7 +9,7 @@
 
 ## Setup
 1. Download `best_model.pth` from the following link: <br>
-https://uofc-my.sharepoint.com/:u:/g/personal/ardit_baboci_ucalgary_ca/EfYblPX6aKhIiflzMHGT6EUB-cbktGWQxb2vz0ro_EdmvQ?e=V2GTN6
+https://www.dropbox.com/s/a6oempgnc32levm/best_model.pth?dl=0
 2. Place `best_model.pth` within the `model` folder to avoid training.
 
 ## Results
