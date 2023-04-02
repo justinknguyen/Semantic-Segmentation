@@ -1,11 +1,17 @@
 # enel645-winter-2023-project-group5
-| Group 5         | Student ID | Contribution                                           | Score |
-| --------------- | ---------- | ---------------------------------------------------    | ----- |
-| Ardit Baboci    | 10149781   | Report writing, Neural network setup, Test metrics     | 3     |
-| Eric Chung      | 10127744   | Report writing, Neural network setup, TALC runs        | 3     |
-| Feras Dahrooge  | 30023852   | Report writing, Video segmentation, Test metrics       | 3     |
-| Justin Nguyen   | 30042258   | Report writing, Video segmentation, Visualizations     | 3     |
-| Khoi  Nguyen    | 10171399   | Report writing, Dataset curating, Neural network setup | 3     |
+| Group 5         | Student ID | Contribution                                                         | Score |
+| --------------- | ---------- | ---------------------------------------------------                  | ----- |
+| Ardit Baboci    | 10149781   | Report writing, Neural network setup, Test metrics, Presentation     | 3     |
+| Eric Chung      | 10127744   | Report writing, Neural network setup, TALC runs, Presentation        | 3     |
+| Feras Dahrooge  | 30023852   | Report writing, Video segmentation, Test metrics, Presentation       | 3     |
+| Justin Nguyen   | 30042258   | Report writing, Video segmentation, Visualizations, Presentation     | 3     |
+| Khoi  Nguyen    | 10171399   | Report writing, Dataset curating, Neural network setup, Presentation | 3     |
+
+## Final Project Presentation
+ 
+Video Recording: https://youtu.be/zGCp2cZhWDU  
+Powerpoint: [enel645-group5-finalpresentation.pptx](./enel645-group5-finalpresentation.pptx)
+
 
 ## Setup
 1. Download `best_model.pth` from the following link: <br>
