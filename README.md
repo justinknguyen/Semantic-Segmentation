@@ -1,4 +1,4 @@
-# enel645-winter-2023-project-group5
+# Semantic Segmentation for Autonomous Driving
 | Group 5         | Student ID | Contribution                                                         | Score |
 | --------------- | ---------- | ---------------------------------------------------                  | ----- |
 | Ardit Baboci    | 10149781   | Report writing, Neural network setup, Test metrics, Presentation     | 3     |
